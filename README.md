@@ -1,0 +1,1 @@
+# Filtrowanie i sortowanie danych
